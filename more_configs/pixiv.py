@@ -23,7 +23,11 @@ target_scheme = 'https://'
 # 实际镜像一个新的站时, 手动只需要添加很少的几个域名就可以了.
 # 自动采集(如果开启的话)会不断告诉你新域名
 external_domains = [
-    "pixiv.net",
+    'pixiv.net',
+    
+    'www.google.com',
+    'apis.google.com',
+    'accounts.google.com',
 ]
 
 # 这些是一些公共的静态资源域名, 会被自动添加到你上面的 external_domains 中
