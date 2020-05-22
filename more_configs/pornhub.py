@@ -8,7 +8,7 @@ my_host_scheme = 'https://'  # 本机的协议, 可选为 "http://" 和 "https:/
 
 # ############## Target Domain Settings ##############
 
-target_domain = 'pornhub.com'  # !!!!你的目标域名!!!!
+target_domain = 'www.pornhub.com'  # !!!!你的目标域名!!!!
 
 target_scheme = 'https://'
 
